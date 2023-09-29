@@ -32,4 +32,4 @@ process1 = subprocess.Popen(["Rscript", #"--vanilla",
                              stderr=subprocess.PIPE,
                              text=True)
 result1 = process1.communicate()
-st.write(result1)
+st.write(result1[1])
