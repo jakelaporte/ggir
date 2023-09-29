@@ -1,0 +1,17 @@
+scipy
+matplotlib
+subprocess
+numpy
+pandas
+seaborn
+plotly
+scikit-learn
+openpyxl
+
+
+
+
+
+
+
+
